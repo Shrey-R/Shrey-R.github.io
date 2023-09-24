@@ -1,0 +1,6 @@
+.child_item_container {
+    :hover {
+        background-color: white;
+        color: black;
+    }
+}
